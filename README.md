@@ -21,11 +21,7 @@ Ensure you have the following installed before proceeding:
 **1- Python (>=3.9)** 
  you can download latest version on python from this link based on your OS : https://www.python.org/downloads/
 
-**2- Celery**
-
-**3- Redis**
-
-**4- Poetry**
+ **2- Poetry**
 
 ***Poetry Installation:***
 
@@ -44,6 +40,20 @@ Ensure you have the following installed before proceeding:
 ```poetry shell```
 
 Now Poetry is installed.
+
+**3- Celery**
+
+**installation:**
+
+```poetry add celery```
+
+**4- Redis**
+
+**installation:**
+
+```poetry add redis```
+
+
 
 
     
