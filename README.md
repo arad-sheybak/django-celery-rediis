@@ -25,19 +25,19 @@ Ensure you have the following installed before proceeding:
 
 ***Poetry Installation:***
 
-1- Make sure you have Python (>=3.9) installed on your system.
+    1- Make sure you have Python (>=3.9) installed on your system.
 
-2- Open CMD (Command Prompt) as Administrator.
+    2- Open CMD (Command Prompt) as Administrator.
 
-3- Run the following commands:
+    3- Run the following commands:
 
-```pip install poetry ```
+    ```pip install poetry ```
 
-```pip install poetry-plugin-shell```
+    ```pip install poetry-plugin-shell```
 
-**Use the following command to enable a virtual environment with Poetry:**
+    **Use the following command to enable a virtual environment with Poetry:**
 
-```poetry shell```
+    ```poetry shell```
 
 Now Poetry is installed.
 
