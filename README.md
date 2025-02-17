@@ -6,20 +6,20 @@ Overview
 
 Features:
 
-**1- Asynchronous email sending using Celery**
+**1- Asynchronous email sending using Celery **
 
-**2- Redis as the message broker**
+**2- Redis as the message broker **
 
-** *Django integration with Celery**
+** Django integration with Celery **
 
-** *Poetry for dependency management**
+** Poetry for dependency management **
 
 **Prerequisites:**
 
 Ensure you have the following installed before proceeding:
 
-**1- Python (>=3.8)**
+**1- Python (>=3.8) **
 
-**2- Redis**
+**2- Redis **
 
-**3- Poetry**
+**3- Poetry **
