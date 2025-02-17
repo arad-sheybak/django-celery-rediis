@@ -31,13 +31,13 @@ Ensure you have the following installed before proceeding:
 
     3- Run the following commands:
 
-    ```pip install poetry ```
+        ```pip install poetry ```
 
-    ```pip install poetry-plugin-shell```
+        ```pip install poetry-plugin-shell```
 
     **Use the following command to enable a virtual environment with Poetry:**
 
-    ```poetry shell```
+        ```poetry shell```
 
 Now Poetry is installed.
 
