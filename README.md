@@ -41,20 +41,27 @@ Ensure you have the following installed before proceeding:
 
 Now Poetry is installed.
 
-**3- Celery**
+**Lets to create the Django project:**
 
-    **installation:**
+For creating Django Project using Poetry follow the below steps:
 
-    poetry add celery
+1- open your IDE (in this case im using VSCode) and then open Terminal, then run the following commands:
 
-**4- Redis**
+``` poetry init --no-interaction```
 
-    **installation:**
+*** poetry init used to create a toml file from project structure and dependencies, This command creating the pyroject.toml file, if you open the file you can see the structure and details of your project.***
 
-    poetry add redis
+2- install Django: 
+
+``` poetry add django```
+
+3- install Celery:
+
+```poetry add celery```
+
+4- install Redis
+
+```poetry add redis```
 
 
-
-
-    
 
