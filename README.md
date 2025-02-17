@@ -43,15 +43,15 @@ Now Poetry is installed.
 
 **3- Celery**
 
-**installation:**
+    **installation:**
 
-```poetry add celery```
+    poetry add celery
 
 **4- Redis**
 
-**installation:**
+    **installation:**
 
-```poetry add redis```
+    poetry add redis
 
 
 
