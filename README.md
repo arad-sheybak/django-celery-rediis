@@ -18,8 +18,24 @@ Features:
 
 Ensure you have the following installed before proceeding:
 
-**1- Python (>=3.8)**
+**1- Python (>=3.9)** 
+ you can download latest version on python from this link based on your OS : https://www.python.org/downloads/
 
-**2- Redis**
+**2- Celery**
 
-**3- Poetry**
+**3- Redis**
+
+**4- Poetry**
+***Poetry Installation:***
+1- Make sure you have Python (>=3.9) installed on your system.
+2- Open CMD (Command Prompt) as Administrator.
+3- Run the following commands:
+***pip install poetry***
+***pip install poetry-plugin-shell***
+**Use the following command to enable a virtual environment with Poetry:**
+***poetry shell***
+Now Poetry is installed.
+
+
+    
+
